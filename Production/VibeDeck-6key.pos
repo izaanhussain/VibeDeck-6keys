@@ -1,0 +1,15 @@
+### Module positions - generated from the supplied KiCad PCB board file
+### Board: My_Macropad.kicad_pcb
+### KiCad board format: 10.0
+### Export date: 2026-11-03
+## Unit = mm, Angle = deg.
+## Side : Front
+# Ref Val Package PosX PosY Rot Side
+SW1   SW_Push                  Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB                        135.8400    62.1600    0.0000 front
+SW2   SW_Push                  Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB                        136.0000    81.0000    0.0000 front
+SW3   SW_Push                  Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB                        154.9600    62.1600    0.0000 front
+SW4   SW_Push                  Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB                        155.0000    81.0000    0.0000 front
+SW5   SW_Push                  Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB                        173.9600    61.9200    0.0000 front
+SW6   SW_Push                  Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB                        174.0000    81.0000    0.0000 front
+SW7   RotaryEncoder_Switch     Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm        107.0000    64.0000    0.0000 front
+U1    MOUDLE-SEEEDUINO-XIAO    footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM                    113.1200    85.5000   90.0000 front
