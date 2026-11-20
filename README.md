@@ -44,6 +44,6 @@ The PCB is made in KIcad
 5) 1X EC11 Rotary Encoder
 6) 1x Case
 7) 1x USB Type-C cable
-
+You can check the bom.csv file
 # Production
  The production files are in the "production" folder where you can find the gerbers.zip & POS file too
